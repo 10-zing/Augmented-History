@@ -5,7 +5,7 @@ Our team "Fire bois" had created this AR app using Unity while participating in 
 Augmented reality is an app which is meant to improve the views and the approach with which students study or take up history. It will help to generate curiosity and genuine interests of the young minds towards the subject. Hence, greatly improving and enhancing our education system.  
 
 
-![Logo](https://github.com/10-zing/Augmented-Reality/blob/main/logo.png)
+![Logo](logo.png)
 
 
 ## Problem it solves
@@ -34,8 +34,8 @@ Using the app
   Point your camera towards a surface as shown in the picture below.
 ```
 
-![img](https://github.com/10-zing/Augmented-Reality/blob/1c22b1c3163287bd6d7950f4d714825844876207/images/img.jpg)
-![img](https://github.com/10-zing/Augmented-Reality/blob/1c22b1c3163287bd6d7950f4d714825844876207/images/img2.jpg))
+![img](images/img.jpg)
+![img](images/img2.jpg)
 
 ## Authors
 
